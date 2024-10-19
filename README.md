@@ -87,4 +87,4 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambi
 [MIT License](https://opensource.org/licenses/MIT)
 
 ## Contacto
-Para preguntas o soporte, por favor contacta a [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com).
+Para preguntas o soporte, por favor contacta a [hey@holasoymalva.com](mailto:hey@holasoymalva.com).
