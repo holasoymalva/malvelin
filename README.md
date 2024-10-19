@@ -1,4 +1,5 @@
 # Marvelin.AI - Asistente Financiero con Llama3
+<img src="https://raw.githubusercontent.com/holasoymalva/malvelin/refs/heads/main/ui/src/assets/logo.png" alt="computer" width="60">
 
 ## Descripción
 Marvelin.AI es un asistente financiero inteligente impulsado por Llama3, diseñado para proporcionar asesoramiento financiero personalizado a través de una interfaz web y Facebook Messenger. Este proyecto utiliza tecnologías de vanguardia en procesamiento de lenguaje natural para ofrecer respuestas precisas y útiles a consultas financieras.
